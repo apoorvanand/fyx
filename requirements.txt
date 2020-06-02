@@ -42,7 +42,7 @@ sandman==0.9.8
 singledispatch==3.4.0.3
 six==1.10.0
 snowballstemmer==1.2.1
-Sphinx==1.5.3
+Sphinx==3.0.4
 sphinx-autobuild==0.6.0
 SQLAlchemy==1.1.6
 tornado==4.4.2
